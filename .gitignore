@@ -1,0 +1,3 @@
+.dvc/cache/
+.dvc/temp/
+my_dataset.csv
